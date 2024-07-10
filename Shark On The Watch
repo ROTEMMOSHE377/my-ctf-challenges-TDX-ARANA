@@ -1,0 +1,12 @@
+Challenge Description:
+During a coffee break, your colleague, Boris, teased you and said that he managed to hack your computer earlier that day and planted a hidden file in it.
+Since you always lock you computer when you leave, you suspect he did it using a network-related vulnerability. Luckily, company policy includes network traffic monitoring.
+The NOC team agreed to provide you with access to the recorded traffic of your computer on the same morning.
+
+Your goals are:
+☛ Identify what Boris did to hack your computer.
+☛ Find the content of the file that Boris planted on your computer.
+
+Process:
+When we start the challenge we will be presented with an open 'Wireshark' GUI with several hundreds if not more logs, one of which will contain the flag.
+
